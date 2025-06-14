@@ -151,6 +151,11 @@ docker-compose up --build
 - Frontend React en modo producción servido por Nginx.
 - Backend Node.js/Express disponible y consumible desde el frontend.
 - Persistencia de datos en la base PostgreSQL.
+### Evidencia:
+<imag!![r](https://github.com/user-attachments/assets/af54f406-2ea6-433f-a272-a1558cdf8f8b)
+
+<imag!![r1](https://github.com/user-attachments/assets/c836d749-7724-4d6d-8d01-04e9069e0124)
+
 ## 9. Conclusión: 
 El uso de contenedores Docker permite crear entornos aislados para cada componente de la aplicación, facilitando la construcción, despliegue y escalabilidad. Separar el frontend en una etapa de build y servirlo con Nginx mejora el rendimiento en producción. Docker Compose simplifica la orquestación y el manejo de dependencias entre servicios.
 ## 10. Bibliografía:
