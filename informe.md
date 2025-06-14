@@ -139,12 +139,7 @@ docker-compose up --build
 <imag!![6](https://github.com/user-attachments/assets/75893ef5-30c0-429e-9e11-ab1345eab2bf)
 
 - Abrir navegador y entrar a http://localhost:3000 para ver la app React servida desde Nginx.
-  ### Evidencia:
-<imag!![fron](https://github.com/user-attachments/assets/f96e6235-9f59-4a09-b24e-4ee8f8f2e189)
-
 - Backend disponible en http://localhost:5000.
-### Evidencia:
-<imag!![backend](https://github.com/user-attachments/assets/d66b7a49-7811-4a1f-b550-7cedc6c62663)
 
 ## 8. Resultados esperados:
 - Contenedores para frontend, backend y base de datos funcionando y comunicándose correctamente.
